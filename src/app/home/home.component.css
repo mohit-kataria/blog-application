@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+.header{
+    background-color: #04192E;
+    display: block;
+    padding: 3%;
+    color:white;
+    font-size: 26px;
+}
